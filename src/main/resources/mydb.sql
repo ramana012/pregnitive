@@ -1,0 +1,1 @@
+CREATE TABLE `sql12257913`.`recordings` ( `email_id` VARCHAR(45) NOT NULL , `count` INT(5) NOT NULL , `fav_count` INT(5) NOT NULL , PRIMARY KEY (`email_id`(45))) ENGINE = InnoDB CHARSET=utf8mb4 COLLATE utf8mb4_bin;
